@@ -1,33 +1,16 @@
+# ATTENTION! I'm new to packaging for the AUR, this is my first attempt and the package isn't working yet!
+ 
 # Apple Macintosh Plymouth Theme
 
 Apple Mac Splash Loading plymouth theme
 
 Created by Navis Michael Bearly ]
 
-EMail: michael.bearly@gmail.com
+EMail from original creator: michael.bearly@gmail.com
 
-**How to install (from file manager)**
-* Download apple-mac-plymouth.tar.xz file
-* Extract here
-* Open folder apple-mac-plymouth
-* Run install.sh
+**Fork that aims to provide an AUR package for this thme**
 
-**How to install (from terminal)**
-* Download apple-mac-plymouth.tar.xz file
-* Extract here
-* Open folder apple-mac-plymouth
-* Right click (on an empty area)
-* Click open in terminal
-* Type command bellow
-* chmod 777 install.sh
-* sudo ./install.sh 
-* Done
-
-**Tested on**
-* Ubuntu 18.04 LTS
-* Xubuntu 18.04
-* Kubuntu 18.04
-* Linux Mint 19
+You can download and run `makepkg -e` or use or favorite aur helper to install the package from there.
 
 **TAny questions? Please contact me on :**
-* EMail - michael.bearly@gmail.com
+* EMail - zehh@live.jp
